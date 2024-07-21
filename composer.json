@@ -1,0 +1,26 @@
+{
+    "name": "yukata-roommate/helpers",
+    "description": "Useful PHP Helper Functions",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "src/useful.php",
+            "src/array.php",
+            "src/bool.php",
+            "src/text.php",
+            "src/number.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Yukata Roommate",
+            "email": "contact@yukata-roommate.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.0"
+    },
+    "minimum-stability": "dev"
+}

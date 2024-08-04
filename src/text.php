@@ -4,7 +4,7 @@ use Random\Randomizer;
 
 if (!function_exists("removeFromEnd")) {
     /**
-     * remove $num characters from the end of the text
+     * remove num characters from end of text
      *
      * @param string $text
      * @param int $num

@@ -4,7 +4,7 @@ use Random\Randomizer;
 
 if (!function_exists("zeroPadding")) {
     /**
-     * padding zero to the left of the number
+     * padding zero to left of number
      *
      * @param int $digit
      * @param int|string $num
